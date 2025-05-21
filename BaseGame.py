@@ -17,7 +17,7 @@ room = "Комната 1"
 
 WIDTH, HEIGHT = 1200, 800
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Tewer_Face")
+pygame.display.set_caption("Tewer Face by Dovintc")
 pygame.mouse.set_visible(False)
 
 TextRoom = pygame.font.SysFont(None , 36)
